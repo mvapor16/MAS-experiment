@@ -1,0 +1,67 @@
+{
+  "domains": [
+    {
+      "name": "Curious Researcher",
+      "subskills": [
+        "Stakeholder interviewing",
+        "Insight synthesis",
+        "Problem framing",
+        "Hypothesis development"
+      ]
+    },
+    {
+      "name": "Creative Designer",
+      "subskills": [
+        "Experience ideation",
+        "Modality selection",
+        "Prototyping",
+        "Iteration"
+      ]
+    },
+    {
+      "name": "Learning Scientist",
+      "subskills": [
+        "Cognitive load management",
+        "Practice design",
+        "Assessment alignment",
+        "Behavioral insights"
+      ]
+    },
+    {
+      "name": "Collaborative Project Manager",
+      "subskills": [
+        "Stakeholder alignment",
+        "Risk management",
+        "Scope management",
+        "Facilitation"
+      ]
+    },
+    {
+      "name": "Influential Storyteller",
+      "subskills": [
+        "Narrative framing",
+        "Insight communication",
+        "Persuasive storytelling",
+        "Audience adaptation"
+      ]
+    },
+    {
+      "name": "Savvy Technologist",
+      "subskills": [
+        "Tool evaluation",
+        "Platform integration",
+        "Accessibility design",
+        "Data-informed design"
+      ]
+    },
+    {
+      "name": "Intentional Learner & Teacher",
+      "subskills": [
+        "Reflection practice",
+        "Feedback seeking",
+        "Knowledge sharing",
+        "Mentoring"
+      ]
+    }
+  ]
+}
