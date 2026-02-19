@@ -1,0 +1,74 @@
+{
+  "competencies": [
+    {
+      "id": "CR",
+      "name": "Curious Researcher",
+      "subskills": [
+        "Stakeholder interviewing",
+        "Insight synthesis",
+        "Problem framing",
+        "Hypothesis development"
+      ]
+    },
+    {
+      "id": "CD",
+      "name": "Creative Designer",
+      "subskills": [
+        "Experience ideation",
+        "Modality selection",
+        "Prototyping",
+        "Iteration"
+      ]
+    },
+    {
+      "id": "LS",
+      "name": "Learning Scientist",
+      "subskills": [
+        "Cognitive load management",
+        "Practice design",
+        "Assessment alignment",
+        "Behavioral insights"
+      ]
+    },
+    {
+      "id": "PM",
+      "name": "Collaborative Project Manager",
+      "subskills": [
+        "Stakeholder alignment",
+        "Risk management",
+        "Scope management",
+        "Facilitation"
+      ]
+    },
+    {
+      "id": "IS",
+      "name": "Influential Storyteller",
+      "subskills": [
+        "Narrative framing",
+        "Insight communication",
+        "Persuasive presentations",
+        "Audience adaptation"
+      ]
+    },
+    {
+      "id": "ST",
+      "name": "Savvy Technologist",
+      "subskills": [
+        "Tool evaluation",
+        "Platform integration",
+        "Accessibility design",
+        "Data-informed design"
+      ]
+    },
+    {
+      "id": "IT",
+      "name": "Intentional Learner & Teacher",
+      "subskills": [
+        "Reflection",
+        "Feedback seeking",
+        "Knowledge sharing",
+        "Mentoring"
+      ]
+    }
+  ]
+}
